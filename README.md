@@ -1,10 +1,10 @@
 Friendscoin integration/staging tree
 ================================
 
-http://www.coingen.io
+http://www.fb.com/jessejusoli
 
 Copyright (c) 2009-2013 Bitcoin Developers
-
+Copyright (c) 2011-2015 Friendscoin Developers
 What is Friendscoin?
 ----------------
 
